@@ -1,0 +1,16 @@
+colorama==0.4.4
+commonmark==0.9.1
+Pygments==2.9.0
+pymongo==3.11.4
+pyperclip==1.8.2
+rich==10.2.2
+typing-extensions==3.10.0.0
+cffi==1.14.5
+cryptography==3.4.7
+numpy==1.20.3
+pandas==1.2.4
+pycparser==2.20
+pyperclip==1.8.2
+python-dateutil==2.8.1
+pytz==2021.1
+six==1.16.0
