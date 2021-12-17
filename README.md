@@ -27,8 +27,7 @@ More implementations on the way!
 <br>
 Checkout the demo of the applications [here](docs/demo.md).
 <br>
-Note: If you're new here, checkout the [main]() branch instead,
-the dev branch is for development of new features only.
+Note: If you're new here, checkout the [main](https://github.com/srakhe/pass-manager-py/tree/main) branch instead, the dev branch is for development of new features only.
 
 ### Current implementations available:
 
@@ -40,6 +39,4 @@ the dev branch is for development of new features only.
 To request more features/implementations, please create an issue or add an idea in the discussions on the repo. :)
 <br>
 
-**NOTE**: Before contributing, please read [this](CONTRIBUTING.md).
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome and appreciated!
+**NOTE**: Before contributing, please read [this](CONTRIBUTING.md). Contributions of any kind welcome and appreciated!
